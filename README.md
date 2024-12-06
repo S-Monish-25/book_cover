@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-# Date:
+# Date:22/11/2024
 # AIM:
 To design a book front cover page using HTML and CSS.
 
@@ -29,6 +29,43 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    .book{
+        background-color: rgb(49, 227, 239);
+        height: 200%;
+        width: 50%;
+        text-align: center;
+        padding: 10px;
+        margin-left: 30%;
+    }
+    .monish{
+        text-align: center;
+        font-size: 70px;
+
+    }
+</style>
+    <title>book</title>
+</head>
+   
+<body>
+    <div class="book">
+        <h1 class="monish">THE POWER</h1>
+        <h2 style="font-size: 300%;">OF YOUR</h2>
+        <h3 style="font-size: 200%;">SUBCONSCIOUS</h3>
+        <div style="font-size: 700%;">MIND</div>
+        <h4 style="font-size: 100%;">AUTHOR : JOSEPH MURPHEY</h4>
+        <img src="c:\Users\monis\Downloads\brain.jpg"
+    </div>
+    
+</body>
+</html>
+```
 # OUTPUT:
+![Screenshot 2024-12-06 230029](https://github.com/user-attachments/assets/896b0aed-a38c-430c-a7f4-4b0e2bdd210a)
+
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
