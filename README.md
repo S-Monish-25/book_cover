@@ -35,8 +35,9 @@ Publish the website in the LocalHost.
 <head>
 <style>
     .book{
-        background-color: rgb(49, 227, 239);
+        background-color: aqua;
         height: 200%;
+        
         width: 50%;
         text-align: center;
         padding: 10px;
@@ -58,14 +59,17 @@ Publish the website in the LocalHost.
         <h3 style="font-size: 200%;">SUBCONSCIOUS</h3>
         <div style="font-size: 700%;">MIND</div>
         <h4 style="font-size: 100%;">AUTHOR : JOSEPH MURPHEY</h4>
-        <img src="c:\Users\monis\Downloads\brain.jpg"
+        <img src="brain.jpg">
+        
     </div>
     
 </body>
 </html>
 ```
 # OUTPUT:
-![Screenshot 2024-12-06 230029](https://github.com/user-attachments/assets/896b0aed-a38c-430c-a7f4-4b0e2bdd210a)
+![Screenshot 2024-12-07 213023](https://github.com/user-attachments/assets/904a5fd3-ba6a-4012-931b-6e85035cfd0b)
+![image](https://github.com/user-attachments/assets/3579d3d0-5b11-475a-85aa-ea31f34901c5)
+
 
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
